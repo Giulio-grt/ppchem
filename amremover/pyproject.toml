@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "amremover"
+version = "0.1.0"
+description = "A package for removing atom mappings from SMILES"
+authors = [{ name = "Your Name", email = "your.email@example.com" }]
+dependencies = [
+    "rdkit",
+    "numpy"
+]

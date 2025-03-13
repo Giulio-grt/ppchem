@@ -1,0 +1,8 @@
+pyproject.toml
+amremover/__init__.py
+amremover/core.py
+amremover.egg-info/PKG-INFO
+amremover.egg-info/SOURCES.txt
+amremover.egg-info/dependency_links.txt
+amremover.egg-info/requires.txt
+amremover.egg-info/top_level.txt
